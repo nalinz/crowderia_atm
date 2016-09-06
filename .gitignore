@@ -1,0 +1,9 @@
+android-client/gen/elg/gov/lk*
+.idea/
+*.iml
+target/
+.classpath
+.project
+bin/
+R.java.d
+libs
